@@ -1,0 +1,5 @@
+com\example\ReadMailSubjectAddInDB\Dao\EmailDao.class
+com\example\ReadMailSubjectAddInDB\ReadMailSubjectAddInDbApplication.class
+com\example\ReadMailSubjectAddInDB\Service\EmailService.class
+com\example\ReadMailSubjectAddInDB\Controller\EmailController.class
+com\example\ReadMailSubjectAddInDB\Entity\Email.class
